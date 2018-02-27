@@ -1,0 +1,819 @@
+{
+   "checksum": "d5e76012a82579a9e4325e3f28be4b8c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13124121167818673",
+               "id": "98",
+               "name": "Dynamic Programming Practice Problems",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://people.cs.clemson.edu/~bcdean/dp_practice/"
+            }, {
+               "date_added": "13124121199457925",
+               "id": "99",
+               "name": "Pushkar Mishra's answer to How did Akshat Bubna, Pushkar Mishra and Nihal Pednekar prepare for IOI? - Quora",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.quora.com/How-did-Akshat-Bubna-Pushkar-Mishra-and-Nihal-Pednekar-prepare-for-IOI/answer/Pushkar-Mishra?ref=fb_page"
+            }, {
+               "date_added": "13104087930885724",
+               "id": "100",
+               "name": "Dynamic Programming Archives - GeeksforGeeks",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.geeksforgeeks.org/tag/dynamic-programming/"
+            }, {
+               "date_added": "13145043197031850",
+               "id": "101",
+               "meta_info": {
+                  "last_visited_desktop": "13151877509638264"
+               },
+               "name": "Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ... - GeeksforGeeks",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+            }, {
+               "date_added": "13144650469788963",
+               "id": "102",
+               "meta_info": {
+                  "last_visited_desktop": "13145602768661551"
+               },
+               "name": "Data Structures and Algorithms - CodeChef Discuss",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://discuss.codechef.com/questions/48877/data-structures-and-algorithms"
+            } ],
+            "date_added": "13163788787091366",
+            "date_modified": "13163788787091366",
+            "id": "28",
+            "name": "Competetive",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13124821689063069",
+               "id": "91",
+               "name": "Algorithm | COME ON CODE ON",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://comeoncodeon.wordpress.com/category/algorithm/"
+            }, {
+               "date_added": "13125194091204513",
+               "id": "92",
+               "name": "Algo colletion",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://e-maxx.ru/algo/"
+            }, {
+               "date_added": "13145658486708852",
+               "id": "93",
+               "meta_info": {
+                  "last_visited_desktop": "13145658486709302"
+               },
+               "name": "chahat verma - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.co.in/search?q=chahat+verma&oq=chahat+verma+&aqs=chrome..69i57.4552j0j1&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13154433243128199",
+               "id": "94",
+               "meta_info": {
+                  "last_visited_desktop": "13155240929049235"
+               },
+               "name": "New Tab",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mail.google.com/"
+            }, {
+               "date_added": "13125194108824936",
+               "id": "95",
+               "name": "Competitive Timeline",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months"
+            }, {
+               "date_added": "13127286537834877",
+               "id": "96",
+               "name": "Breadth First Search Algorithm using C++ STL",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://theoryofprogramming.com/breadth-first-search-algorithm-using-cpp-stl/"
+            }, {
+               "date_added": "13147613164967363",
+               "id": "97",
+               "name": "",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.facebook.com/IndiaBakchod/photos/a.383771178333549.83590.372440236133310/1552800951430560/?type=3"
+            } ],
+            "date_added": "13163788787092032",
+            "date_modified": "13163788787092032",
+            "id": "29",
+            "name": "Data Structures",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13125736398838636",
+               "id": "85",
+               "name": "Python Programming Examples",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.programiz.com/python-programming/examples"
+            }, {
+               "date_added": "13125903691714498",
+               "id": "86",
+               "name": "Python 3 (new) Tutorial - Comments and Break",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://thenewboston.com/videos.php?cat=98&video=20115"
+            }, {
+               "date_added": "13125903700484650",
+               "id": "87",
+               "name": "Tutorials, Python Courses: Online and On Site",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.python-course.eu/"
+            }, {
+               "date_added": "13125903848417991",
+               "id": "88",
+               "meta_info": {
+                  "last_visited_desktop": "13152989745191380"
+               },
+               "name": "Learn Python the Hard Way - Read for Free",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://learnpythonthehardway.org/book/"
+            }, {
+               "date_added": "13131731245118953",
+               "id": "89",
+               "meta_info": {
+                  "last_visited_desktop": "13136660964273748"
+               },
+               "name": "Python Project Ideas for Final Year, Python Project Help",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://instanteduhelp.com/python-project-ideas-final-year-engineering-students/"
+            }, {
+               "date_added": "13139498759854940",
+               "id": "90",
+               "name": "Yes, Python is Slow, and I Don’t Care – Hacker Noon",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1"
+            } ],
+            "date_added": "13163788787092686",
+            "date_modified": "13163788787092686",
+            "id": "30",
+            "name": "Python",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13124921971509075",
+               "id": "75",
+               "name": "All commands | commandlinefu.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.commandlinefu.com/commands/browse/25/50"
+            }, {
+               "date_added": "13126555985955107",
+               "id": "76",
+               "name": "Advanced Bash-Scripting Guide",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tldp.org/LDP/abs/html/"
+            }, {
+               "date_added": "13126555997401455",
+               "id": "77",
+               "name": "What are good online resources for learning shell scripting? - Unix & Linux Stack Exchange",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://unix.stackexchange.com/questions/9270/what-are-good-online-resources-for-learning-shell-scripting"
+            }, {
+               "date_added": "13126556326609054",
+               "id": "78",
+               "meta_info": {
+                  "last_visited_desktop": "13151650814931366"
+               },
+               "name": "Regexp",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tldp.org/LDP/abs/html/x17129.html"
+            }, {
+               "date_added": "13126556341732728",
+               "id": "79",
+               "name": "BashPitfalls - Greg's Wiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mywiki.wooledge.org/BashPitfalls#for_i_in_.24.28ls_.2A.mp3.29"
+            }, {
+               "date_added": "13126786563592778",
+               "id": "80",
+               "name": "Bash One-Liners :: bashoneliners.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.bashoneliners.com/?page=2"
+            }, {
+               "date_added": "13126881727952112",
+               "id": "81",
+               "name": "scripting - What is the most useful script you've written for everyday life? - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/188162/what-is-the-most-useful-script-youve-written-for-everyday-life"
+            }, {
+               "date_added": "13126886776691217",
+               "id": "82",
+               "name": "RegExr: Learn, Build, & Test RegEx",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://regexr.com/"
+            }, {
+               "date_added": "13131569232251762",
+               "id": "83",
+               "name": "awesome-lists/awesome-bash: A curated list of delightful Bash scripts and resources.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/awesome-lists/awesome-bash"
+            }, {
+               "date_added": "13131569340165226",
+               "id": "84",
+               "name": "Bash One-Liners :: bashoneliners.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.bashoneliners.com/"
+            } ],
+            "date_added": "13163788787093427",
+            "date_modified": "13163788787093427",
+            "id": "31",
+            "name": "BASH",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13126297735966399",
+               "id": "70",
+               "meta_info": {
+                  "last_visited_desktop": "13146410903540504"
+               },
+               "name": "Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ruslanspivak.com/lsbasi-part1/"
+            }, {
+               "date_added": "13126297765575859",
+               "id": "71",
+               "name": "How do I write a simple compiler? - Quora",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.quora.com/How-do-I-write-a-simple-compiler#"
+            }, {
+               "date_added": "13126298590529758",
+               "id": "72",
+               "name": "CS143: Compilers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://web.stanford.edu/class/cs143/"
+            }, {
+               "date_added": "13126299234791797",
+               "id": "73",
+               "name": "CS 4120/4121/5120/5121 Overview",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cs.cornell.edu/courses/cs4120/2013fa/overview.html"
+            }, {
+               "date_added": "13126299241645876",
+               "id": "74",
+               "name": "How do I write a simple compiler? - Quora",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.quora.com/How-do-I-write-a-simple-compiler"
+            } ],
+            "date_added": "13163788787094681",
+            "date_modified": "13163788787094681",
+            "id": "32",
+            "name": "Compiler",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13125643634129874",
+               "id": "63",
+               "name": "SymPy - 2016 - Google Summer of Code Archive",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6281948016148480/"
+            }, {
+               "date_added": "13125643654533280",
+               "id": "64",
+               "name": "CVXPY - 2016 - Google Summer of Code Archive",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6020075270176768/"
+            }, {
+               "date_added": "13125643660291775",
+               "id": "65",
+               "name": "Scilab Enterprises - 2016 - Google Summer of Code Archive",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5960176045654016/"
+            }, {
+               "date_added": "13125643668341781",
+               "id": "66",
+               "name": "Organizations - 2016 - Google Summer of Code Archive",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/archive/2016/organizations/"
+            }, {
+               "date_added": "13127021746382639",
+               "id": "67",
+               "name": "Google Developer Training  |  Google Developers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://developers.google.com/training/programs/india/?utm_source=facebook_IN_en_cg&utm_campaign=IN_android_skilling&utm_medium=display_banner&dclid=CJCi55Lqi9ECFQXHjgodU2IKEw"
+            }, {
+               "date_added": "13127194632208051",
+               "id": "68",
+               "name": "GSoC 2016 Conclusion",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://shekharrajak.github.io/gsoc16_final.html"
+            }, {
+               "date_added": "13136993140268040",
+               "id": "69",
+               "meta_info": {
+                  "last_visited_desktop": "13136993160623564"
+               },
+               "name": "What is it like to work at Google India? - Quora",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.quora.com/What-is-it-like-to-work-at-Google-India"
+            } ],
+            "date_added": "13163788787095118",
+            "date_modified": "13163788787095118",
+            "id": "33",
+            "name": "GSoC",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13128170720776326",
+               "id": "56",
+               "meta_info": {
+                  "last_visited_desktop": "13146412018880479"
+               },
+               "name": "Department of Computer Science | Summer Research Expeditions (SRE) in Computational Sciences, Systems and Engineering",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cs.jhu.edu/sre/"
+            }, {
+               "date_added": "13129206666520120",
+               "id": "57",
+               "name": "Program Description - Caltech Student-Faculty Programs",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.sfp.caltech.edu/programs/surf/program_description"
+            }, {
+               "date_added": "13131966730730531",
+               "id": "58",
+               "name": "Build a solid career in tech without a CS major – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@amangoeliitb/build-a-solid-career-in-tech-without-a-cs-major-39cdef86013#.wd0n4iiiz"
+            }, {
+               "date_added": "13133036920212923",
+               "id": "59",
+               "meta_info": {
+                  "last_visited_desktop": "13145570308168384"
+               },
+               "name": "Install Realtek rtl8723be Wifi Drivers in Arch Linux. – Jagjeet Singh",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://iamjagjeetubhi.wordpress.com/2016/06/19/install-realtek-rtl8723be-wifi-drivers-in-arch-linux/"
+            }, {
+               "date_added": "13135249214865315",
+               "id": "60",
+               "meta_info": {
+                  "last_visited_desktop": "13135274021974365"
+               },
+               "name": "Edmond Lau's answer to What are the things required to become a hardcore programmer? - Quora",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer/answer/Edmond-Lau?ref=fb_page"
+            }, {
+               "date_added": "13135555094764765",
+               "id": "61",
+               "meta_info": {
+                  "last_visited_desktop": "13136788028490339"
+               },
+               "name": "",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.facebook.com/photo.php?fbid=1387321604676288&set=a.290547041020422.67707.100001953840933&type=3"
+            }, {
+               "date_added": "13125478252963465",
+               "id": "62",
+               "name": "How do I get an internship at Google? - Quora",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.quora.com/How-do-I-get-an-internship-at-Google-5"
+            } ],
+            "date_added": "13163788787095553",
+            "date_modified": "13163788787095553",
+            "id": "34",
+            "name": "Intern",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13154684615112898",
+            "id": "35",
+            "meta_info": {
+               "last_visited_desktop": "13154807308090538"
+            },
+            "name": "Programming Interviews: Dynamic Programming - YouTube - YouTube",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PL962BEE1A26238CA3"
+         }, {
+            "children": [ {
+               "date_added": "13138741828514080",
+               "id": "50",
+               "name": "Mongoose Schemas v4.9.8",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mongoosejs.com/docs/guide.html"
+            }, {
+               "date_added": "13138742084450360",
+               "id": "51",
+               "name": "Using Redis with Node.js",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.sitepoint.com/using-redis-node-js/"
+            }, {
+               "date_added": "13138802968627599",
+               "id": "52",
+               "name": "File uploads using Node.js | Codeforgeek",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://codeforgeek.com/2014/11/file-uploads-using-node-js/"
+            }, {
+               "date_added": "13139584712757608",
+               "id": "53",
+               "name": "Node.js async in practice: When to use what? - Sebastian Seilund",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.sebastianseilund.com/nodejs-async-in-practice"
+            }, {
+               "date_added": "13140611976239464",
+               "id": "54",
+               "name": "How to Create and Publish Your First Node.js Module",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738"
+            }, {
+               "date_added": "13145425432082699",
+               "id": "55",
+               "meta_info": {
+                  "last_visited_desktop": "13145425432083078"
+               },
+               "name": "A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript"
+            } ],
+            "date_added": "13163788787097038",
+            "date_modified": "13163788787097038",
+            "id": "36",
+            "name": "JS",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13140553932919750",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13151526253417739"
+            },
+            "name": "Markdown Cheatsheet · adam-p/markdown-here Wiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+         }, {
+            "date_added": "13143200802388065",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13151650886521944"
+            },
+            "name": "Distributed Systems - - Announcements",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://onlinecourses.nptel.ac.in/noc17_cs42/announcements?force=true"
+         }, {
+            "date_added": "13152478154509909",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13152478154511642"
+            },
+            "name": "11 step guide to becoming a software developer in 2016",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://learntocodewith.me/posts/become-a-software-engineer/"
+         }, {
+            "date_added": "13154684652696520",
+            "id": "40",
+            "meta_info": {
+               "last_visited_desktop": "13154807921973807"
+            },
+            "name": "Subset Sum Problem Dynamic Programming - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4"
+         }, {
+            "date_added": "13154073775131806",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13158907460250504"
+            },
+            "name": "Microsoft Word - Course_Schedule_Pr_201718_2.docx",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.iitk.ac.in/doaa/data/Course_Schedule_Pr_201718_2.pdf"
+         }, {
+            "date_added": "13146076842203110",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13152980734090232"
+            },
+            "name": "Braingle: Brain Teasers, Puzzles, Riddles, Trivia and Games",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.braingle.com/"
+         }, {
+            "children": [ {
+               "date_added": "13147266053397732",
+               "id": "49",
+               "meta_info": {
+                  "last_visited_desktop": "13149798503645156"
+               },
+               "name": "CS161 Survival Guide",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.eecs.harvard.edu/~cs161/resources/survival.html"
+            } ],
+            "date_added": "13163788787098036",
+            "date_modified": "13163788787098036",
+            "id": "43",
+            "name": "Operating Systems",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13149079061880040",
+            "id": "44",
+            "meta_info": {
+               "last_visited_desktop": "13152181336552740"
+            },
+            "name": "Complex Analysis",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJS_i8vfVWJG16mPcoEKMuWT"
+         }, {
+            "date_added": "13149252090393894",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13149252090395524"
+            },
+            "name": "CS 162: Operating Systems and System Programming (Spring 2015, UC Berkeley): Lecture 01 - What is an Operating System?",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.infocobuild.com/education/audio-video-courses/computer-science/CS162-Spring2015-Berkeley/lecture-01.html"
+         }, {
+            "date_added": "13153257440877326",
+            "id": "46",
+            "meta_info": {
+               "last_visited_desktop": "13153257440879157"
+            },
+            "name": "Graphs",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://codeforces.com/blog/entry/16221"
+         }, {
+            "date_added": "13153592060491684",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13153592060496211"
+            },
+            "name": "Operating Systems: Schedule",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://lass.cs.umass.edu/~shenoy/courses/377/lectures.html"
+         }, {
+            "date_added": "13153680927107003",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13153680927107527"
+            },
+            "name": "200 universities just launched 560 free online courses. Here’s the full list.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04?source=---------0----------------"
+         } ],
+         "date_added": "13163788741987903",
+         "date_modified": "13154684652696520",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13130343367377666",
+            "id": "5",
+            "name": "walther.io/how-to-replace-unity-with-i3-window-manager-on-ubuntu-1204/",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://walther.io/how-to-replace-unity-with-i3-window-manager-on-ubuntu-1204/"
+         }, {
+            "date_added": "13126969192067620",
+            "id": "6",
+            "name": "12 Useful Tweaks To Make Ubuntu Feel Like Home",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.makeuseof.com/tag/11-tweaks-perform-ubuntu-installation/"
+         }, {
+            "date_added": "13131537287101794",
+            "id": "7",
+            "name": "Top 40 Python Interview Questions & Answers |",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://career.guru99.com/top-25-python-interview-questions/"
+         }, {
+            "date_added": "13131537337131403",
+            "id": "8",
+            "name": "Some good python interview questions | techMyway",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://techmyway.wordpress.com/2011/06/17/python-interview-questions/"
+         }, {
+            "date_added": "13138379516611306",
+            "id": "9",
+            "name": "Write test spec · Issue #9 · s-ol/themer",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/s-ol/themer/issues/9"
+         }, {
+            "date_added": "13138379516612231",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13136889760030854"
+            },
+            "name": "Python Interview Question and Answers | ilian.io",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ilian.io/python-interview-question-and-answers/"
+         }, {
+            "date_added": "13138379516612881",
+            "id": "11",
+            "name": "Getting started with Django | Django",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.djangoproject.com/start/"
+         }, {
+            "date_added": "13138379516613534",
+            "id": "12",
+            "name": "sumita-arora-xii-structured-query-language.pdf",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://sharanvjtechnology.files.wordpress.com/2014/04/sumita-arora-xii-structured-query-language.pdf"
+         }, {
+            "date_added": "13138379516614151",
+            "id": "13",
+            "name": "Python & JSON: Working with large datasets using Pandas",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.dataquest.io/blog/python-json-tutorial/"
+         }, {
+            "date_added": "13138379516615422",
+            "id": "14",
+            "name": "Python API tutorial - An Introduction to using APIs",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.dataquest.io/blog/python-api-tutorial/"
+         }, {
+            "date_added": "13138379516616212",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13137857851062871"
+            },
+            "name": "helmuthdu/aui: Archlinux Ultimate Install",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/helmuthdu/aui"
+         }, {
+            "date_added": "13138379516617009",
+            "id": "16",
+            "name": "eriklindernoren/ML-From-Scratch: Bare bones Python implementations of some of the foundational Machine Learning models and algorithms.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch"
+         }, {
+            "date_added": "13138379516617620",
+            "id": "17",
+            "name": "archfi/archfi at master · MatMoul/archfi",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/MatMoul/archfi/blob/master/archfi"
+         }, {
+            "date_added": "13138379516618166",
+            "id": "18",
+            "name": "MatMoul/archdi: Arch Linux Desktop Installer : tutorial installer",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/MatMoul/archdi"
+         }, {
+            "date_added": "13138379516618674",
+            "id": "19",
+            "name": "Codecs - ArchWiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/codecs"
+         }, {
+            "date_added": "13138379516619154",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13137517285279245"
+            },
+            "name": "ODE",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.math.vt.edu/people/afkhamis/class_home/notes/"
+         }, {
+            "date_added": "13138379516619767",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13137517290621113"
+            },
+            "name": "Differential Equations - Complex Eigenvalues",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://tutorial.math.lamar.edu/Classes/DE/ComplexEigenvalues.aspx"
+         }, {
+            "date_added": "13141324342501822",
+            "id": "22",
+            "name": "Welcome to the Neo-HPSTR Blog – Blog Title",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://aronbordin.com/neo-hpstr-jekyll-theme/"
+         }, {
+            "date_added": "13141324653838539",
+            "id": "23",
+            "name": "brianmaierjr/long-haul: A minimal, type-focused Jekyll theme.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/brianmaierjr/long-haul"
+         }, {
+            "date_added": "13141462081439334",
+            "id": "24",
+            "name": "File System | Node.js v8.1.0 Documentation",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://nodejs.org/api/fs.html"
+         }, {
+            "date_added": "13141514643498054",
+            "id": "25",
+            "name": "kvrohit.github.io",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://kvrohit.github.io/"
+         }, {
+            "date_added": "13142454155317193",
+            "id": "26",
+            "name": "About Hugo · Hugo Website",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://themes.gohugo.io/theme/hugo-theme-nix/about"
+         }, {
+            "date_added": "13142587824270183",
+            "id": "27",
+            "name": "How To Install and Use Hugo, a Static Site Generator, on Ubuntu 14.04 | DigitalOcean",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04"
+         } ],
+         "date_added": "13163788741987908",
+         "date_modified": "13142587824270183",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "3",
+      "synced": {
+         "children": [  ],
+         "date_added": "13163788741987908",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

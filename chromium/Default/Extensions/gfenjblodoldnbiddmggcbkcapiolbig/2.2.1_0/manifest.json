@@ -1,0 +1,29 @@
+{
+   "background": {
+      "page": "html/intro.html"
+   },
+   "content_scripts": [ {
+      "css": [ "css/content-script.css" ],
+      "js": [ "js/content-script.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "*://*.youtube.com/*", "*://*.musixmatch.com/*" ]
+   },
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwyKV+GkA2d6vVlnqBHUZkZ8iA0A5hItqFtNLmTQZW87Bb/GOrRmP+5RetP9er7sDYaCutKHCN1d5Bd4fMMK4dfe4EnWhtaVMuYaQauCfAK/Csg3zoU9PCfFgEzHTnKom668IYnUYqbpOvxMbBIXFMZCYOS6DqMhut1Zpw513PbkPDhgRlyWUTRb50Z6ecA+6UFhg4W4WTSeS6l2YKuEHYZZ15GadbuYPuzL87dC1bqGOjU6kck9rpbpRTFujRxMjGHVB7RuXn3LT5O51wJXt+Yoqk+k4BUYhinYyA7GuegtOIM660tkWlcsne0Ccva0zf9yCmXVxwDAyhUABwN6vxwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "cookies", "*://*.musixmatch.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.1",
+   "web_accessible_resources": [ "js/bridge.js", "js/adsense.js" ]
+}

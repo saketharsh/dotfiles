@@ -1,0 +1,31 @@
+{
+   "applications": {
+      "gecko": {
+         "id": "New-New-Tab-Page@zacharyguard.co.nf",
+         "strict_min_version": "54.0"
+      }
+   },
+   "author": "Zachary Guard",
+   "background": {
+      "page": "newtab.html",
+      "persistent": true
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "A minimal new tab page replacement",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr4iXHmr4ZeDU5ciBBBxp6zbwwITSVOAOL+f8yWV03CdGINBRBdJ5Rq/xqLF4LIqiQDQaIOsyx99JoTkb51mqqphP2wfutSjzOe469Rk+gXqxYuufbU/2sqhAgdcnppxS8GRNGkbly43kOHk/GLzf1en1xTfnNkCB8TjTXgoQxwPL8rrvDfG5SHFDzLqoMpjjIgs2rMNHiMGvZ11TsjNsg9geBVcnwvLcEV//0J2f03xoHEzRb6ez6osFAHHop6Ff65KnLXiwia1TKLndmbTFoj4IJZV/NBF0gejm5XEI5F3Ifzj8QxAlvhrmhPnEvZiX9BjAqumz5ty/yXqDx4RUXQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "options_page": "options/options.html",
+   "permissions": [ "topSites", "management", "bookmarks", "storage", "sessions", "tabs", "geolocation", "http://php-nntp.193b.starter-ca-central-1.openshiftapps.com/", "*://*/*" ],
+   "short_name": "NNTP",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.8.4"
+}

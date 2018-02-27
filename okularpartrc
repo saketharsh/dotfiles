@@ -1,0 +1,9 @@
+[General]
+ShellOpenFileInTabs=true
+rtlReadingDirection=true
+
+[Main View]
+SplitterSizes=90,1178
+
+[PageView]
+MouseMode=RectSelect

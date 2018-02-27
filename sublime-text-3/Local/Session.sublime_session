@@ -1,0 +1,472 @@
+{
+	"folder_history":
+	[
+		"/home/sharsh/.config/i3"
+	],
+	"last_version": 3143,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 291.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 497.0
+			},
+			"console":
+			{
+				"height": 143.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sharsh/.config/i3/bin/cmus",
+				"/home/sharsh/.config/i3/bin/i3nag.sh",
+				"/home/sharsh/.config/i3/i3-config/README.md",
+				"/home/sharsh/.config/i3/i3blocks.conf",
+				"/home/sharsh/.config/i3/config",
+				"/home/sharsh/.config/i3/i3status.conf",
+				"/home/sharsh/Downloads/i3.txt",
+				"/home/sharsh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"//config",
+					".config/.config",
+					".i3",
+					"st ",
+					"yash",
+					"reload",
+					"mod+Shift+c",
+					"Mod4"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/.config",
+					".config",
+					"/config/.i3",
+					"sharsh",
+					"mod"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/sharsh/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 7615,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "theme = \"solarized-dark\"\nicons = \"awesome\"\n\n\n[[block]]\nblock = \"music\"\nmax_width = 21\nmarquee = true\nplayer = \"vlc\"\nbuttons = [\"play\", \"next\"]\n\n\n\n\n[[block]]\nblock = \"backlight\"\n\n\n#[[block]]\n#block = \"speedtest\"\n#bytes = true\n#interval = 1\n\n\n[[block]]\nblock = \"net\"\ndevice = \"wlo1\"\nssid = false\nip = true\nspeed_up = true\ngraph_up = falser\ninterval = 5\n\n[[block]]\nblock = \"disk_space\"\npath = \"/\"\nalias = \"/\"\ninfo_type = \"available\"\nunit = \"GB\"\ninterval = 20\nwarning = 20.0\nalert = 10.0\n\n#[[block]]\n#block = \"memory\"\n#display_type = \"memory\"\n#format_mem = \"{Mup}%\"\n#format_swap = \"{SUp}%\"\n\n\n\n[[block]]\nblock = \"cpu\"\ninterval = 1\n\n[[block]]\nblock = \"load\"\ninterval = 1\nformat = \"{1m}\"\n\n[[block]]\nblock = \"sound\"\n\n[[block]]\nblock = \"time\"\ninterval = 60\nformat = \"%a %d/%m %I:%M %p\"\n\n[[block]]\nblock = \"battery\"\ninterval = 4\n\n\n\n\n#theme = \"solarized-dark\"\n#icons = \"awesome\"\n\n[[block]]\nblock = \"temperature\"\n\n\n#[[block]]\n#block = \"load\"\n#interval = 1\n#format = \"{1m} {5m} {15m}\"\n\n#[[block]]\n#block = \"cpu\"\n#interval = 0.7\n\n#[[block]]\n#block = \"memory\"\n#interval = 5\n#info_type = \"memory\"\n#format_mem = \"{Mup}%\"\n#format_swap = \"{SUp}%\"\n\n#[[block]]\n#block = \"disk_space\"\n#path = \"/\"\n#alias = \"/\"\n#info_type = \"available\"\n#unit = \"GB\"\n#interval = 20\n\n#[[block]]\n#block = \"disk_space\"\n#path = \"/home/user\"\n#alias = \"~\"\n#info_type = \"available\"\n#unit = \"GB\"\n#interval = 20\n\n#[[block]]\n#block = \"battery\"\n#device = 0\n\n#[[block]]\n#block = \"sound\"\n\n#[[block]]\n##block = \"time\"\n#interval = 60\n#format = \"%a %d/%m %R\"\n\n[[block]]\nblock = \"custom\"\ninterval = 999999\ncommand = \"echo '\\uF011'\"\non_click = \"i3-nagbar -t warning -m 'What do you want to do?' -b 'Shutdown' 'shutdown now' -b 'Hibernate' 'systemctl hibernate' -b 'Reboot' 'reboot'\"\n\n\n",
+					"file": "/home/sharsh/.config/i3/status.toml",
+					"file_size": 1724,
+					"file_write_time": 131641067853878688,
+					"settings":
+					{
+						"buffer_size": 1725,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 291.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 497.0
+			},
+			"console":
+			{
+				"height": 143.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/sharsh/.config/i3",
+				"/home/sharsh/.config/i3/bin"
+			],
+			"file_history":
+			[
+				"/home/sharsh/.config/i3/config",
+				"/home/sharsh/.config/i3/status.toml",
+				"/home/sharsh/.config/i3/i3blocks.conf.bk",
+				"/home/sharsh/.config/i3/i3blocks.conf",
+				"/home/sharsh/.config/i3/bin/cmus",
+				"/home/sharsh/.config/i3/bin/i3nag.sh",
+				"/home/sharsh/.config/i3/i3-config/README.md",
+				"/home/sharsh/.config/i3/i3status.conf",
+				"/home/sharsh/Downloads/i3.txt",
+				"/home/sharsh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mod+Shift+al",
+					"#fff",
+					"binfolder",
+					"feh",
+					".i3",
+					"order",
+					"//config",
+					".config/.config",
+					".i3",
+					"st ",
+					"yash",
+					"reload",
+					"mod+Shift+c",
+					"Mod4"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"i3",
+					"/.config",
+					".config",
+					"/config/.i3",
+					"sharsh",
+					"mod"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/sharsh/.config/i3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/sharsh/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7615,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7568,
+										7568
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/XML (Config).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3332.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/sharsh/.config/i3/status.toml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1725,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										337,
+										337
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 204.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 133.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 375.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,44 @@
+{
+    "default_settings": {
+        "slotCount": 3,
+        "appIconSize": 130,
+        "showAppsDrawer": true,
+        "topSiteCount": 6,
+        "recSiteCount": 3,
+        "showBookmarks": false,
+        "showAllBookmarks": false,
+        "firstRun": false,
+        "backgroundURL": "url(/img/bg.png)",
+        "bgBlur": false,
+        "disableAnimation": false,
+        "titleText": "",
+        "showFB": false,
+        "showFBNotif": false,
+        "showStumble": false,
+        "autoClose": true,
+        "showTumblr": false,
+        "apps": [],
+        "noAnimation": false,
+        "sidebarEnabled": true,
+        "appsgridstyle": false,
+        "feedurls": ["http://feeds.bbci.co.uk/news/world/rss.xml"],
+        "customCSS": "",
+        "appIconBorderRadius": 7.5,
+        "background": {
+            "images": [{
+                "type": "preset",
+                "uri": "/img/bg.png"
+            }],
+            "background": {
+                "color": "#2EABE5"
+            }
+        },
+        "useFixedGrid": false,
+        "fixedGridCols": 5,
+        "fixedGridRows": 5,
+        "overrideWxLocation": false,
+        "wxCoordsLat": 0,
+        "wxCoordsLong": 0,
+        "wxUseGPS": false
+    }
+}

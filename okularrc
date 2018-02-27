@@ -1,0 +1,17 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA7wAAAPOAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/CS653_11LambdaCalculus.pdf
+File2[$e]=$HOME/Downloads/CS653_10LambdaCalculus.pdf
+File3[$e]=$HOME/Graham Hutton-Programming in Haskell-Cambridge University Press (2007).pdf
+File4[$e]=$HOME/Christopher_Allen__Julie_Moronuki-Haskell_Programming_from_first_principles__2016_.pdf
+Name1[$e]=CS653_11LambdaCalculus.pdf
+Name2[$e]=CS653_10LambdaCalculus.pdf
+Name3[$e]=Graham Hutton-Programming in Haskell-Cambridge University Press (2007).pdf
+Name4[$e]=Christopher_Allen__Julie_Moronuki-Haskell_Programming_from_first_principles__2016_.pdf
